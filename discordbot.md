@@ -1,2 +1,0 @@
-# discordbot
-### [home](index.md)
