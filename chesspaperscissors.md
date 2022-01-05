@@ -1,3 +1,3 @@
 # chesspaperscissors
-### [home](index.md)
+### [home](index)
 

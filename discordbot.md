@@ -1,3 +1,2 @@
 # discordbot
-### [home](index.md)
-
+### [home](index)

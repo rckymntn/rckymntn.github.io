@@ -1,3 +1,3 @@
 # md2html
-### [home](index.md)
+### [home](index)
 
