@@ -1,7 +1,8 @@
 # discordbot
 ### [home](index)
 
-Features implemented so far:
+### Features implemented so far:
+
 1. `on_message`: Whenever a message is sent, the bot may perform some action depending on the contents of the message. 
     1. Moderation: If a message has a blocked word in it, the message is deleted. 
     2. Self awareness: If a message has the bot's name in it, the bot will respond "no u <3" to the message. 
