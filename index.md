@@ -2,7 +2,6 @@
 
 ### Public projects:
 
-- [md2html](md2html): Coverts a markdown file to a html file.
 - [unityroguelike](unityroguelike): A 2D roguelike built using the Unity game engine. 
 
 ### Private projects:
