@@ -2,6 +2,7 @@
 
 ### Public projects:
 
+- [pyjrm](pyjrm): Python JSON Resource Monitor. 
 - [unityroguelike](unityroguelike): A 2D roguelike built using the Unity game engine. 
 
 ### Private projects:
