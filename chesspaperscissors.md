@@ -1,3 +1,0 @@
-# chesspaperscissors
-### [home](index)
-

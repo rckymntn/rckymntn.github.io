@@ -1,2 +1,0 @@
-# snws
-### [home](index)
